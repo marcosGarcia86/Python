@@ -1,0 +1,5 @@
+Você certamente já deve ter ouvido falar muito sobre o Raspberry PI. É uma tecnologia relativamente nova e existem vários projetos de diversos assuntos relacionados a ela.
+
+O que é o Raspberry PI então? Raspberry é nada mais do que um computador pronto em uma única placa! Usando uma linguagem mais formal, também é chamado de SBC (Single-Board Computer). É um computador completo que tem processador, memória, entradas e saídas, tudo plenamente funcional!
+
+O Raspberry é uma tecnologia muito difundida e utilizada hoje em dia. Primeiro porque é barato, e segundo pela dimensão dessa placa. Esse computador tem o tamanho aproximado de um cartão de crédito!
